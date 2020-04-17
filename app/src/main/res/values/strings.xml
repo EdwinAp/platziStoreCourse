@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">platzistore</string>
+    <string name="textoRecursoR">The RecyclerView widget is a more advanced and flexible version of ListView. In the
+        RecyclerView model, several different components work together to display your data. The overall container for
+        your user interface is a RecyclerView object that you add to your layout. The RecyclerView fills itself with
+        views provided by a layout manager that you provide. You can use one of our standard layout managers (such as
+        LinearLayoutManager or GridLayoutManager).
+    </string>
+</resources>
